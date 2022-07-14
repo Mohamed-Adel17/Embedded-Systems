@@ -3,7 +3,7 @@
  Name        : EX2.c
  Author      : 
  Version     :
- Copyright   : Your copyright notice
+ Copyright   : Write C Program to Print a Integer Entered by a User
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
