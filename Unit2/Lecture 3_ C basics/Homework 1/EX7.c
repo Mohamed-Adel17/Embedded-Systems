@@ -10,8 +10,6 @@
 
 #include <stdio.h>
 
-//Write Source Code to Swap Two Numbers without temp variable.
-
 int main(void) {
 
 	float n1=0,n2=0;
@@ -27,10 +25,6 @@ int main(void) {
 	n1 = n1-n2;
 
 	printf("After swapping, n1 = %.2f \n\t\tn2 = %.2f", n1,n2);
-
-
-
-
 
 
 	return 0;
