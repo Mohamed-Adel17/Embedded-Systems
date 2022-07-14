@@ -3,8 +3,8 @@
  Name        : EX2.c
  Author      : 
  Version     :
- Copyright   : Write C Program to Print a Integer Entered by a User
- Description : Hello World in C, Ansi-style
+ Copyright   :
+ Description : Write C Program to Print a Integer Entered by a User
  ============================================================================
  */
 
