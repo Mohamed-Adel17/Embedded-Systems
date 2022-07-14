@@ -3,7 +3,8 @@
 
  *
  *  Created on: Jul 14, 2022
- *      Author: Mohamed Adel
+ *  Author: Mohamed Adel
+ *  description : Write C Program to Add Two Integers
  */
 
 #include <stdio.h>
