@@ -5,7 +5,7 @@
  Author      : 
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : check vowel or consonant
  ============================================================================
  */
 #include <stdio.h>
