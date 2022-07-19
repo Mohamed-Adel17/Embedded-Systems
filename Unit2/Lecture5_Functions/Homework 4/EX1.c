@@ -4,7 +4,7 @@
  Author      : 
  Version     :
  Copyright   : Your copyright notice
- Description : Function to get prime numbers in a given range
+ Description : Function to get prime numbers in a given range 
  ============================================================================
  */
 
